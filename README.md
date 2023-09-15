@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola
 
-<!--
-**HotchPocket/HotchPocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://64.media.tumblr.com/21c384320381816e7222c8d7ec8e70d4/c82aea24ab2f75cb-6c/s2048x3072/da6e614cfc69e5160b724958db0e6bfe7577be95.pnj">
 
-Here are some ideas to get you started:
+Soy estudiante 👍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Me gusta:
+- 🧟‍♂️ Resident Evil 
+- 🪓 Don't Starve Together 
+- 🦎 Pokemon 
+- 🐱 Michis 
+- 👨‍💼 Ace Attorney 
+- 👮‍♂️ Brooklyn 99 
+- 🐓 Corazón de pollo 
+- 🐞 Miraculous
